@@ -1,5 +1,5 @@
 #Tool created by Mardok Security
-#Twittwer -> @MardokSecurity
+#Twitter -> @MardokSecurity
 #YouTube -> Mardok Security
 #Tool status code http.
 
