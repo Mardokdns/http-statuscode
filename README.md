@@ -1,2 +1,2 @@
-# StatusCode-Python
-Simple Tool in Python for Status Code HTTP
+# HTTP Status Code
+Sistema simples de verificar o status code de um website.
