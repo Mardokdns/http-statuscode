@@ -1,8 +1,3 @@
-#Tool created by Mardok Security
-#Twitter -> @MardokSecurity
-#YouTube -> Mardok Security
-#Tool status code http.
-
 import requests
 import os
 import sys
